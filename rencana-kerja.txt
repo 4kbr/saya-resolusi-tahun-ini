@@ -5,4 +5,4 @@ rencana :
 - freelancer
 - indie developer
 - pedagang
-
+- buka online shop
