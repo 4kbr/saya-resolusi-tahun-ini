@@ -2,7 +2,6 @@ rencana :
 - front end developer
 - back end developer
 - dev ops engineering
-- freelancer
-- indie developer
 - pedagang
 - buka online shop
+
