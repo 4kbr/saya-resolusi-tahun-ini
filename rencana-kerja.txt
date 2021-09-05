@@ -3,6 +3,5 @@ rencana :
 - back end developer
 - dev ops engineering
 - pedagang
-- web developer
-- engineer
+- buka online shop
 
