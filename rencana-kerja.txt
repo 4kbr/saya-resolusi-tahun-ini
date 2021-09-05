@@ -4,4 +4,7 @@ rencana :
 - dev ops engineering
 - pedagang
 - buka online shop
+- beli tanah
+- buat kandang ayam
+- beternak
 
