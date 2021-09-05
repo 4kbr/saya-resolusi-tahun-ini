@@ -4,3 +4,5 @@ rencana :
 - dev ops engineering
 - freelancer
 - indie developer
+- pedagang
+
