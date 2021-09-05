@@ -7,4 +7,5 @@ rencana :
 - beli tanah
 - buat kandang ayam
 - beternak
+- bangun rumah
 
