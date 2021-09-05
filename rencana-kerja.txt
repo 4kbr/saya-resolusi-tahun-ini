@@ -5,8 +5,7 @@ rencana :
 - pedagang
 - buka online shop
 - beli tanah
-- buat kandang sapi
-- beli sapi
-- berkebun
-- olahraga
+- buat kandang ayam
+- beternak
+- bangun rumah
 
